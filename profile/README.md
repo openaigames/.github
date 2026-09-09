@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="../assets/banner-v2-corrected.png" alt="Open AIGames — Make something worth playing. 一起做点值得玩的。" width="100%" />
+  <img src="../assets/banner-v2-corrected.png" alt="OpenAIGames — Make something worth playing. 一起做点值得玩的。" width="100%" />
 </p>
 
 <br />
 
 ### 好玩的想法，值得被做出来。
 
-**Open AIGames 是一个围绕 AI 与游戏创作的开源社区。**
+**OpenAIGames 是一个围绕 AI 与游戏创作的开源社区。**
 
 先一起把点子做成能玩的游戏，再通过 Demo 交换真实反馈。把制作过程公开，把反复遇到的问题积累下来，逐步做成我们自己的 AI 创作工具。
 

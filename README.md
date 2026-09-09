@@ -1,4 +1,4 @@
-# Open AIGames
+# OpenAIGames
 
 Make something worth playing.
 
@@ -9,4 +9,4 @@ Make something worth playing.
 - [带一个点子来 / Bring an idea](https://github.com/openaigames/.github/issues/new?template=01-game-idea.yml)
 - [提交 Demo / Share a demo](https://github.com/openaigames/.github/issues/new?template=02-game-demo.yml)
 
-本仓库维护 Open AIGames 的组织首页、品牌素材与初期共创入口。作品由创作者保留署名；具体代码与素材的使用范围以各项目说明为准。
+本仓库维护 OpenAIGames 的组织首页、品牌素材与初期共创入口。作品由创作者保留署名；具体代码与素材的使用范围以各项目说明为准。

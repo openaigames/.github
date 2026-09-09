@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-  <img src="../assets/banner-v2-corrected.png" alt="Open AIGames — Make something worth playing." width="100%" />
+  <img src="../assets/banner-v2-corrected.png" alt="OpenAIGames — Make something worth playing." width="100%" />
 </p>
 
 <br />
 
 ### Good ideas deserve to be played.
 
-**Open AIGames is an open-source community for making games with AI.**
+**OpenAIGames is an open-source community for making games with AI.**
 
 We turn ideas into playable games together, then share demos and honest playtest feedback. We open up the making process, learn from recurring problems, and gradually build our own AI creation tools.
 
