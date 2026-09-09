@@ -54,6 +54,8 @@
 
 提交 Demo 时，带上试玩链接、核心玩法，以及你最希望获得的一条反馈。还没有成品也没关系，一个清楚的点子就可以开始。
 
+已有整理好的资料，也可以[通过 PR 留存点子、Demo 和工具需求](https://github.com/openaigames/community/blob/main/CONTRIBUTING.md)。合并后进入社区仓库，后续更新保留版本历史与讨论记录。
+
 <br />
 
 ---
