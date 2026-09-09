@@ -54,6 +54,8 @@ Code, art, stories, sound — or simply a love of playing games. There is more t
 
 When sharing a demo, include a playable link, the core mechanic, and the one thing you most want feedback on. No finished game yet? A clear idea is enough to start.
 
+Already have organized material? [Contribute ideas, demos, and tool needs through a PR](https://github.com/openaigames/community/blob/main/CONTRIBUTING.en.md). Merged records live in the community repository, with version history and discussion preserved as they evolve.
+
 <br />
 
 ---
