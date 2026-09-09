@@ -14,7 +14,7 @@
 
 We turn ideas into playable games together, then share demos and honest playtest feedback. We open up the making process, learn from recurring problems, and gradually build our own AI creation tools.
 
-**[Bring an idea ↗](https://github.com/openaigames/.github/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/.github/issues/new?template=02-game-demo.yml)** · [How to take part](https://github.com/openaigames/.github/blob/main/CONTRIBUTING.en.md)
+**[Bring an idea ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)** · [Join the community](https://github.com/openaigames/community)
 
 <br />
 

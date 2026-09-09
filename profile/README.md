@@ -14,7 +14,7 @@
 
 先一起把点子做成能玩的游戏，再通过 Demo 交换真实反馈。把制作过程公开，把反复遇到的问题积累下来，逐步做成我们自己的 AI 创作工具。
 
-**[带一个点子来 ↗](https://github.com/openaigames/.github/issues/new?template=01-game-idea.yml)**　·　**[提交可试玩 Demo ↗](https://github.com/openaigames/.github/issues/new?template=02-game-demo.yml)**　·　[参与方式](https://github.com/openaigames/.github/blob/main/CONTRIBUTING.md)
+**[带一个点子来 ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)**　·　**[提交可试玩 Demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)**　·　[进入共创社区](https://github.com/openaigames/community)
 
 <br />
 

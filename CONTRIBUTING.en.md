@@ -1,25 +1,7 @@
-[简体中文](CONTRIBUTING.md) · English
+# Contribute to OpenAIGames
 
-# Let's make something playable
+Ideas, demos, playtest feedback, and tool needs belong in [community](https://github.com/openaigames/community).
 
-Start with an idea, one playable mechanic, or thoughtful playtest feedback. Contribute code, art, stories, sound, or simply your experience as a player.
+[Read the participation guide](https://github.com/openaigames/community/blob/main/CONTRIBUTING.en.md) · [简体中文](https://github.com/openaigames/community/blob/main/CONTRIBUTING.md)
 
-## Bring an idea
-
-[Open a game idea](https://github.com/openaigames/.github/issues/new?template=01-game-idea.yml). Explain what the player does, what makes it interesting, and the smallest version worth making. If you want collaborators, describe what you can already contribute and where you need help.
-
-## Share a demo
-
-[Submit a playable demo](https://github.com/openaigames/.github/issues/new?template=02-game-demo.yml) with a playable link, controls, and the question you most want to test. A demo that opens directly is ideal; include instructions when downloads or setup are needed.
-
-You can attach source code and making-of notes to the same submission. Credit authors, collaborators, and assets, and make sure you have permission to share work made by others.
-
-## Playtest and iterate
-
-Leave feedback on the demo's Issue: what you tried, where you got stuck, what felt fun, and one concrete suggestion. Authors can keep version updates and changes in the same Issue so the feedback stays in context.
-
-## Discover tool needs through making
-
-Document recurring problems in actual game development before deciding to build a tool. Describe the steps, time spent, and the outcome you want to improve. Include reproducible examples when available. Once the problem is clear, break it into implementation tasks.
-
-Use one Issue per idea or demo. If you take on a piece of work, leave a comment with its scope. For changes to this repository, submit a small, focused Pull Request and check both Chinese and English versions.
+To improve the organization profile or brand assets, submit a Pull Request to this repository.
