@@ -16,6 +16,8 @@ We turn ideas into playable games together, then share demos and honest playtest
 
 **[Bring an idea ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)** · **[Share a playable demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)** · [Join the community](https://github.com/openaigames/community)
 
+A website for showcasing and playing demos and games is under development. Stay tuned.
+
 <br />
 
 <table>

@@ -16,6 +16,8 @@
 
 **[带一个点子来 ↗](https://github.com/openaigames/community/issues/new?template=01-game-idea.yml)**　·　**[提交可试玩 Demo ↗](https://github.com/openaigames/community/issues/new?template=02-game-demo.yml)**　·　[进入共创社区](https://github.com/openaigames/community)
 
+Demo 和游戏展示网页正在开发中，敬请期待。
+
 <br />
 
 <table>
