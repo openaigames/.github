@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="../assets/banner-v2-corrected.png" alt="OpenAIGames — Make something worth playing. 一起做点值得玩的。" width="100%" />
+  <img src="../assets/banner-openaigames.png" alt="OpenAIGames — Make something worth playing. 一起做点值得玩的。" width="100%" />
 </p>
 
 <br />
